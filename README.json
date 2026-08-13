@@ -1,0 +1,276 @@
+{
+  "items": [
+    {
+      "description": "Framer X is a powerful Interaction Design tool. Please read the Official Documentation.\nFramer X comes with a variety of features and capabilities like a Design Store of reusable UI components (powered by NPM). On the store, you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.\nReact components on Framer X can be written in and/or .",
+      "items": [],
+      "title": "What is Framer X?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Rapid Course",
+          "description": "This React Course will help you get quickly up to pace with React.js development - Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-11T07:48:10Z",
+            "owner": "learncodeacademy",
+            "repo": "react-js-tutorials",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactJS Crash Course",
+          "description": "Learn the fundamentals of React.js, by @traversymedia - Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-27T16:07:15Z",
+            "owner": "bradtraversy",
+            "repo": "projectmanager",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Free React Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TypeScript Cheatsheet",
+          "description": "A TypeScript cheatsheet by [@swyx] and [@islamAttrash]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-29T19:52:44Z",
+            "owner": "typescript-cheatsheets",
+            "repo": "react",
+            "stars": 47099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React + TypeScript Example",
+          "description": "An example React + TypeScript project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-23T00:06:50Z",
+            "owner": "microsoft",
+            "repo": "TypeScript-React-Starter",
+            "stars": 11036
+          }
+        }
+      ],
+      "title": "TypeScript Refrences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to create a styled-component in Framer X",
+          "description": "Simon Franzen, software developer at zauberware, shows how to install styled-components for a Framer X project and how to create a basic button component., Oct 20, 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:35:04Z",
+            "owner": "styled-components",
+            "repo": "styled-components",
+            "stars": 41128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bringing Design System Components from Production into Framer X",
+          "description": "A super comprehensive guide for reusing Design Systems components inside Framer X by Ivan Cruz, Product Designer at Datadog. Check out the source code, a build system to transpile and sync a production code component with Framer X. Aug 31, 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-10-26T21:31:58Z",
+            "owner": "shiftsave",
+            "repo": "framerx-build-system",
+            "stars": 159
+          }
+        }
+      ],
+      "title": "Framer X Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Transform",
+          "description": "Tool to transform JS objects to get something useful [CSS-to-JS, CSS-to-Emotion, HTML-to-JSX and many more]. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-28T14:55:29Z",
+            "owner": "ritz078",
+            "repo": "transform",
+            "stars": 9196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alva",
+          "description": "Alva is a React based Design Tool (in beta).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-24T23:01:00Z",
+            "owner": "meetalva",
+            "repo": "alva",
+            "stars": 3698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guppy",
+          "description": "A friendly application manager and task runner for React.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-27T08:48:57Z",
+            "owner": "joshwcomeau",
+            "repo": "guppy",
+            "stars": 3240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React for Designers",
+          "description": "A friendly guide to start learning React. Created by @zach__johnston. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-30T13:27:41Z",
+            "owner": "zachj0hnston",
+            "repo": "reactfordesignersdotcom",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "React based design tools, online tools and REPLs"
+    },
+    {
+      "description": "Framer X will not have a code editor. Good news is that you can install and customize your code editor. Here are the most popular ones.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Visual Studio Code",
+          "description": "VS Code is a fast, lightweight, code editor developed by Microsoft. Is open source, comes with built-in support for , and .",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome VS Code List",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-21T09:36:55Z",
+                "owner": "viatsko",
+                "repo": "awesome-vscode",
+                "stars": 28953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Framer VS Code Theme",
+              "description": ".",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Atom",
+          "description": "Atom is the code editor developed by Github. Ultra hackable, with tons of packages created by the community.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Framer Atom Theme",
+              "description": ".",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Code Editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Framer X Components, Tools & Tips"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Framer X Build System",
+          "description": "A build system to transpile React components for use in Framer X - Check out the (intro blog post).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-10-26T21:31:58Z",
+            "owner": "shiftsave",
+            "repo": "framerx-build-system",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Framer Tools",
+          "description": "Create code components for your Framer X file right from the command line, created by Steve Ruiz.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-06-25T14:36:27Z",
+            "owner": "steveruizok",
+            "repo": "framer-tools",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:09.926Z",
+    "original_repository": "davo/awesome-react-framer-x",
+    "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
+    "enhanced_repository": "enhansome/enhansome-react-framer-x",
+    "enhanced_repository_description": null,
+    "title": "Awesome React Framer X with stars"
+  }
+}
