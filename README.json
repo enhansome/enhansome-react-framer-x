@@ -58,7 +58,7 @@
             "last_commit": "2026-05-29T19:52:44Z",
             "owner": "typescript-cheatsheets",
             "repo": "react",
-            "stars": 47099
+            "stars": 47101
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2019-08-23T00:06:50Z",
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11036
+            "stars": 11035
           }
         }
       ],
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-11T17:35:04Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41128
+            "stars": 41127
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-01-28T14:55:29Z",
             "owner": "ritz078",
             "repo": "transform",
-            "stars": 9196
+            "stars": 9197
           }
         },
         {
@@ -198,7 +198,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28953
+                "stars": 28954
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:09.926Z",
+    "last_updated": "2026-08-14T00:10:44.472Z",
     "original_repository": "davo/awesome-react-framer-x",
     "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
     "enhanced_repository": "enhansome/enhansome-react-framer-x",
