@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:30:42Z",
+            "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121
+            "stars": 41120
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2022-06-24T23:01:00Z",
             "owner": "meetalva",
             "repo": "alva",
-            "stars": 3697
+            "stars": 3696
           }
         },
         {
@@ -198,7 +198,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28955
+                "stars": 28957
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:49:32.259Z",
+    "last_updated": "2026-08-17T23:51:30.172Z",
     "original_repository": "davo/awesome-react-framer-x",
     "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
     "enhanced_repository": "enhansome/enhansome-react-framer-x",
