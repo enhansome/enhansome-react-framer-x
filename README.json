@@ -54,7 +54,7 @@
                 "last_commit": "2026-05-29T19:52:44Z",
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47096
+                "stars": 47098
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-17T17:53:56Z",
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41120
+                "stars": 41121
               }
             },
             {
@@ -134,7 +134,7 @@
                 "last_commit": "2026-01-28T14:55:29Z",
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9211
+                "stars": 9213
               }
             },
             {
@@ -206,7 +206,7 @@
                     "last_commit": "2026-06-21T09:36:55Z",
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 28965
+                    "stars": 28971
                   }
                 }
               ]
@@ -264,7 +264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:50:26.013Z",
+    "last_updated": "2026-08-23T23:50:29.582Z",
     "original_repository": "davo/awesome-react-framer-x",
     "original_repository_id": 140506139,
     "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
