@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "React For Beginners",
+              "description": "Source Code - Learn React.js in just a couple of afternoons, by @wesbos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45273566,
+                "language": "JavaScript",
+                "last_commit": "2023-05-16T11:21:58Z",
+                "owner": "wesbos",
+                "repo": "React-For-Beginners-Starter-Files",
+                "stars": 2903
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Paid React Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TypeScript Cheatsheet",
               "description": "A TypeScript cheatsheet by [@swyx] and [@islamAttrash]",
               "children": [],
@@ -54,7 +76,7 @@
                 "last_commit": "2026-05-29T19:52:44Z",
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47098
+                "stars": 47101
               }
             },
             {
@@ -134,7 +156,7 @@
                 "last_commit": "2026-01-28T14:55:29Z",
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9213
+                "stars": 9214
               }
             },
             {
@@ -206,7 +228,7 @@
                     "last_commit": "2026-06-21T09:36:55Z",
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 28971
+                    "stars": 28974
                   }
                 }
               ]
@@ -264,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:50:29.582Z",
+    "last_updated": "2026-08-24T14:14:42.703Z",
     "original_repository": "davo/awesome-react-framer-x",
     "original_repository_id": 140506139,
     "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
