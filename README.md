@@ -80,7 +80,7 @@ React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**
 
 ### TypeScript Refrences
 
-* [TypeScript Cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) ⭐ 47,101 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - A TypeScript cheatsheet by \[@swyx] and \[@islamAttrash]
+* [TypeScript Cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) ⭐ 47,103 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - A TypeScript cheatsheet by \[@swyx] and \[@islamAttrash]
 * [React + TypeScript Example](https://github.com/Microsoft/TypeScript-React-Starter) ⚠️ Archived - An example React + TypeScript project.
 * [Learn TypeScript](https://www.typescriptlang.org/docs/home.html) - Main documentation for TypeScript.
 
@@ -159,7 +159,7 @@ React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**
 Framer X will not have a code editor. Good news is that you can install and customize your code editor. Here are the most popular ones.
 
 * [Visual Studio Code](https://code.visualstudio.com/download) - VS Code is a fast, lightweight, code editor developed by Microsoft. Is open source, comes with built-in support for `JavaScript`, `TypeScript` and `Node`.
-  * [Awesome VS Code List](https://github.com/viatsko/awesome-vscode) ⭐ 28,974 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21.
+  * [Awesome VS Code List](https://github.com/viatsko/awesome-vscode) ⭐ 28,975 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21.
   * [Framer X Code Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=pixelbeat.vscode-framerx-code-snippets). - A collection of snippets for Framer X using React with versions on plain ES6 & TypeScript, made by [@pixelbeat](https://twitter.com/pixelbeat).
   * [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?term=React\&target=VSCode\&category=All%20categories\&sortBy=Relevance).
   * [Framer VS Code Theme](https://github.com/framer/syntax-vsc).
@@ -190,7 +190,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ## Other lists, communities, meetups and more.
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,383 | 🐛 82 | 📅 2026-08-20 - A collection of awesome things regarding React ecosystem.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,387 | 🐛 82 | 📅 2026-08-20 - A collection of awesome things regarding React ecosystem.
 * [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 * [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
 * [spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
