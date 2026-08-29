@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code that goes along with my YouTube React JS Series",
+                "homepage": null,
                 "id": 50937592,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-11T07:48:10Z",
+                "open_issues": 26,
                 "owner": "learncodeacademy",
                 "repo": "react-js-tutorials",
-                "stars": 1661
+                "stars": 1661,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample code for ReactJS Crash Course",
+                "homepage": null,
                 "id": 73614275,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-08-27T16:07:15Z",
+                "open_issues": 1,
                 "owner": "bradtraversy",
                 "repo": "projectmanager",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter files for learning React.js with React for Beginners",
+                "homepage": " https://ReactForBeginners.com",
                 "id": 45273566,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-16T11:21:58Z",
+                "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "React-For-Beginners-Starter-Files",
-                "stars": 2903
+                "stars": 2903,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -74,12 +89,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+                "homepage": "https://react-typescript-cheatsheet.netlify.app",
                 "id": 135786093,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-29T19:52:44Z",
+                "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47098
+                "stars": 47096,
+                "topics": [
+                  "cheatsheet",
+                  "guide",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -90,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A starter template for TypeScript and React with a detailed README describing how to use the two together.",
+                "homepage": null,
                 "id": 90786246,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-08-23T00:06:50Z",
+                "open_issues": 196,
                 "owner": "microsoft",
                 "repo": "TypeScript-React-Starter",
-                "stars": 11030
+                "stars": 11030,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -119,12 +149,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+                "homepage": "https://styled-components.com",
                 "id": 65794292,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T17:53:56Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:00:26Z",
+                "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41127
+                "stars": 41125,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "react",
+                  "reactnative",
+                  "rsc",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -135,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A starter repo to get started with building a Design System within Framerx using production components",
+                "homepage": null,
                 "id": 146511148,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-10-26T21:31:58Z",
+                "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -158,12 +205,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A polyglot web converter.",
+                "homepage": "https://transform.tools",
                 "id": 94473513,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-28T14:55:29Z",
+                "open_issues": 82,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9218
+                "stars": 9219,
+                "topics": [
+                  "css",
+                  "flow",
+                  "golang",
+                  "graphql",
+                  "jsx",
+                  "react",
+                  "react-native",
+                  "rust",
+                  "transformations",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -174,12 +237,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Create living prototypes with code components.",
+                "homepage": "https://meetalva.io",
                 "id": 110887441,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-06-24T23:01:00Z",
+                "open_issues": 92,
                 "owner": "meetalva",
                 "repo": "alva",
-                "stars": 3696
+                "stars": 3696,
+                "topics": [
+                  "components",
+                  "design",
+                  "design-system",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -190,12 +263,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐠A friendly application manager and task runner for React.js",
+                "homepage": null,
                 "id": 134185621,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2021-05-27T08:48:57Z",
+                "open_issues": 78,
                 "owner": "joshwcomeau",
                 "repo": "guppy",
-                "stars": 3240
+                "stars": 3240,
+                "topics": [
+                  "gui",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -206,12 +288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A designer friendly guide to learning React",
+                "homepage": null,
                 "id": 141770233,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-30T13:27:41Z",
+                "open_issues": 1,
                 "owner": "zachj0hnston",
                 "repo": "reactfordesignersdotcom",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -234,12 +321,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎨 A curated list of delightful VS Code packages and resources.",
+                    "homepage": "https://viatsko.github.io/awesome-vscode/",
                     "id": 51270739,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
+                    "open_issues": 54,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 28979
+                    "stars": 28982,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list",
+                      "visual-studio",
+                      "visual-studio-code",
+                      "visual-studio-code-extension",
+                      "visual-studio-code-theme",
+                      "visualstudio",
+                      "vscode",
+                      "vscode-extension",
+                      "vscode-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:06.324Z"
                 }
@@ -265,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A starter repo to get started with building a Design System within Framerx using production components",
+                "homepage": null,
                 "id": 146511148,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-10-26T21:31:58Z",
+                "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             },
@@ -281,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Do good stuff fast in Framer X from the command line.",
+                "homepage": null,
                 "id": 150397780,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-06-25T14:36:27Z",
+                "open_issues": 0,
                 "owner": "steveruizok",
                 "repo": "framer-tools",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
             }
@@ -300,15 +414,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:06.324Z",
+    "last_updated": "2026-08-29T04:26:14.709Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome links to learn React, ES6 & Framer X",
+      "homepage": null,
       "id": 140506139,
       "language": null,
+      "license": null,
       "last_commit": "2021-02-16T22:06:43Z",
+      "open_issues": 2,
       "owner": "davo",
       "repo": "awesome-react-framer-x",
-      "stars": 919
+      "stars": 919,
+      "topics": [
+        "awesome-list",
+        "design",
+        "design-tools",
+        "framerx",
+        "javascript",
+        "react",
+        "typescript"
+      ]
     },
     "original_repository_sha": "090f197c7acc8c707b2f8c671933be99962a62e7",
     "enhanced_repository": "enhansome/enhansome-react-framer-x",
