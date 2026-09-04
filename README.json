@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47097,
+                "stars": 47096,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -155,10 +155,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T23:00:26Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41123,
+                "stars": 41124,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -214,7 +214,7 @@
                 "open_issues": 82,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9222,
+                "stars": 9225,
                 "topics": [
                   "css",
                   "flow",
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 54,
+                    "open_issues": 55,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 28996,
+                    "stars": 28999,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:23:43.629Z",
+    "last_updated": "2026-09-04T01:17:07.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
@@ -426,7 +426,7 @@
       "open_issues": 2,
       "owner": "davo",
       "repo": "awesome-react-framer-x",
-      "stars": 918,
+      "stars": 917,
       "topics": [
         "awesome-list",
         "design",
