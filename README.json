@@ -124,7 +124,7 @@
                 "open_issues": 196,
                 "owner": "microsoft",
                 "repo": "TypeScript-React-Starter",
-                "stars": 11023,
+                "stars": 11022,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -158,7 +158,7 @@
                 "open_issues": 28,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41103,
+                "stars": 41102,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 57,
+                    "open_issues": 58,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29021,
+                    "stars": 29026,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:28:44.536Z",
+    "last_updated": "2026-09-13T01:22:05.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
