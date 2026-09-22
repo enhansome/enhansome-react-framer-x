@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "learncodeacademy",
                 "repo": "react-js-tutorials",
-                "stars": 1660,
+                "stars": 1659,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "React-For-Beginners-Starter-Files",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47098,
+                "stars": 47097,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -214,7 +214,7 @@
                 "open_issues": 82,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9235,
+                "stars": 9236,
                 "topics": [
                   "css",
                   "flow",
@@ -246,7 +246,7 @@
                 "open_issues": 92,
                 "owner": "meetalva",
                 "repo": "alva",
-                "stars": 3695,
+                "stars": 3694,
                 "topics": [
                   "components",
                   "design",
@@ -272,7 +272,7 @@
                 "open_issues": 78,
                 "owner": "joshwcomeau",
                 "repo": "guppy",
-                "stars": 3240,
+                "stars": 3239,
                 "topics": [
                   "gui",
                   "react",
@@ -330,7 +330,7 @@
                     "open_issues": 64,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29059,
+                    "stars": 29060,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:32:17.838Z",
+    "last_updated": "2026-09-22T01:48:10.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
@@ -426,7 +426,7 @@
       "open_issues": 2,
       "owner": "davo",
       "repo": "awesome-react-framer-x",
-      "stars": 916,
+      "stars": 915,
       "topics": [
         "awesome-list",
         "design",
