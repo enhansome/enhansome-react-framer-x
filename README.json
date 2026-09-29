@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "React-For-Beginners-Starter-Files",
-                "stars": 2899,
+                "stars": 2898,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -154,11 +154,11 @@
                 "id": 65794292,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T23:15:45Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-28T13:11:19Z",
+                "open_issues": 24,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41103,
+                "stars": 41104,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -210,11 +210,11 @@
                 "id": 94473513,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-01-28T14:55:29Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-28T20:46:03Z",
+                "open_issues": 83,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9237,
+                "stars": 9238,
                 "topics": [
                   "css",
                   "flow",
@@ -327,7 +327,7 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 66,
+                    "open_issues": 67,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
                     "stars": 29085,
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:56:34.780Z",
+    "last_updated": "2026-09-29T02:41:52.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
