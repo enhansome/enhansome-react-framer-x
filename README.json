@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47093,
+                "stars": 47095,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -158,7 +158,7 @@
                 "open_issues": 24,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41101,
+                "stars": 41099,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -214,7 +214,7 @@
                 "open_issues": 83,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9241,
+                "stars": 9239,
                 "topics": [
                   "css",
                   "flow",
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 67,
+                    "open_issues": 69,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29086,
+                    "stars": 29090,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:19:33.870Z",
+    "last_updated": "2026-10-01T02:20:43.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
