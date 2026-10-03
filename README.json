@@ -317,7 +317,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome VS Code List",
-                  "description": ".",
+                  "description": "viatsko/awesome-vscode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -330,7 +330,7 @@
                     "open_issues": 72,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29090,
+                    "stars": 29092,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:16:42.734Z",
+    "last_updated": "2026-10-03T05:09:20.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
