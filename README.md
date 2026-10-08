@@ -88,8 +88,8 @@ React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**
 
 ### Framer X Articles
 
-* [How to create a styled-component in Framer X](https://www.zauberware.com/en/articles/2018/how-to-create-a-styled-component-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), shows how to install [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,094 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-28 for a Framer X project and how to create a basic button component., Oct 20, 2018.
-* [Bringing Design System Components from Production into Framer X](https://medium.com/@shiftsave/bringing-design-system-components-from-production-into-framer-x-786e89be2250) - A super comprehensive guide for reusing Design Systems components inside Framer X by [Ivan Cruz](https://twitter.com/shiftsave/), Product Designer at Datadog. Check out the [source code](https://github.com/shiftsave/framerx-build-system) ⭐ 159 | 🐛 8 | 🌐 CSS | 📅 2018-10-26, a build system to transpile and sync a production code component with Framer X. Aug 31, 2018.
+* [How to create a styled-component in Framer X](https://www.zauberware.com/en/articles/2018/how-to-create-a-styled-component-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), shows how to install [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,093 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-28 for a Framer X project and how to create a basic button component., Oct 20, 2018.
+* [Bringing Design System Components from Production into Framer X](https://medium.com/@shiftsave/bringing-design-system-components-from-production-into-framer-x-786e89be2250) - A super comprehensive guide for reusing Design Systems components inside Framer X by [Ivan Cruz](https://twitter.com/shiftsave/), Product Designer at Datadog. Check out the [source code](https://github.com/shiftsave/framerx-build-system) ⭐ 158 | 🐛 8 | 🌐 CSS | 📅 2018-10-26, a build system to transpile and sync a production code component with Framer X. Aug 31, 2018.
 * [Making things happen in Framer X](https://medium.com/@steveruiz/making-things-happen-in-framer-x-d579747e6d9d) - A very detailed answer to this recurring question on the Framer Slack Channel. “How do I make user interaction with one component produce a change in a different component?” – by Framer Design Educator [Steve Ruiz](https://twitter.com/steveruizok). - Jul 05, 2019.
 * [Going from Framer to Framer X](https://medium.com/@maxsteitle/going-from-framer-to-framer-x-166f1dcef8dd) — A simple guide for designers getting started with React and Framer X by [Max Steitle](https://twitter.com/MaxSteitle) - Apr 8, 2019
 * [Build fast 3D map prototypes with Mapbox + Framer X](https://blog.mapbox.com/build-fast-3d-map-prototypes-with-mapbox-framer-x-df5202c5090a) - [Amy Lee Walton](https://twitter.com/amyleew) - Apr 3, 2019
@@ -159,7 +159,7 @@ React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**
 Framer X will not have a code editor. Good news is that you can install and customize your code editor. Here are the most popular ones.
 
 * [Visual Studio Code](https://code.visualstudio.com/download) - VS Code is a fast, lightweight, code editor developed by Microsoft. Is open source, comes with built-in support for `JavaScript`, `TypeScript` and `Node`.
-  * [Awesome VS Code List](https://github.com/viatsko/awesome-vscode) ⭐ 29,101 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-21.
+  * [Awesome VS Code List](https://github.com/viatsko/awesome-vscode) ⭐ 29,106 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-21.
   * [Framer X Code Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=pixelbeat.vscode-framerx-code-snippets). - A collection of snippets for Framer X using React with versions on plain ES6 & TypeScript, made by [@pixelbeat](https://twitter.com/pixelbeat).
   * [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?term=React\&target=VSCode\&category=All%20categories\&sortBy=Relevance).
   * [Framer VS Code Theme](https://github.com/framer/syntax-vsc).
@@ -181,7 +181,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 #### Tools
 
-* [Framer X Build System](https://github.com/shiftsave/framerx-build-system) ⭐ 159 | 🐛 8 | 🌐 CSS | 📅 2018-10-26 - A build system to transpile React components for use in Framer X - Check out the ([intro blog post](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)).
+* [Framer X Build System](https://github.com/shiftsave/framerx-build-system) ⭐ 158 | 🐛 8 | 🌐 CSS | 📅 2018-10-26 - A build system to transpile React components for use in Framer X - Check out the ([intro blog post](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)).
 * [Framer Tools](https://github.com/steveruizok/framer-tools) ⚠️ Archived - Create code components for your Framer X file right from the command line, created by [Steve Ruiz](https://twitter.com/steveruizok/).
 
 #### Tips
@@ -190,7 +190,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ## Other lists, communities, meetups and more.
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,810 | 🐛 19 | 📅 2026-09-04 - A collection of awesome things regarding React ecosystem.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,816 | 🐛 19 | 📅 2026-09-04 - A collection of awesome things regarding React ecosystem.
 * [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 * [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
 * [spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
@@ -200,4 +200,4 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

@@ -155,10 +155,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-28T13:11:19Z",
-                "open_issues": 24,
+                "open_issues": 20,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41094,
+                "stars": 41093,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -186,7 +186,7 @@
                 "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 159,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -330,7 +330,7 @@
                     "open_issues": 77,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29101,
+                    "stars": 29106,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -378,7 +378,7 @@
                 "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 159,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:40:06.765Z",
+    "last_updated": "2026-10-08T02:52:04.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
@@ -426,7 +426,7 @@
       "open_issues": 2,
       "owner": "davo",
       "repo": "awesome-react-framer-x",
-      "stars": 914,
+      "stars": 913,
       "topics": [
         "awesome-list",
         "design",
