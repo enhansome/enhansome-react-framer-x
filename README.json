@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47089,
+                "stars": 47083,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -124,7 +124,7 @@
                 "open_issues": 196,
                 "owner": "microsoft",
                 "repo": "TypeScript-React-Starter",
-                "stars": 11015,
+                "stars": 11014,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -214,7 +214,7 @@
                 "open_issues": 83,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9252,
+                "stars": 9251,
                 "topics": [
                   "css",
                   "flow",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:22:15.915Z",
+    "last_updated": "2026-10-28T02:32:54.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
