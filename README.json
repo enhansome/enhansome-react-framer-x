@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47082,
+                "stars": 47085,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -272,7 +272,7 @@
                 "open_issues": 78,
                 "owner": "joshwcomeau",
                 "repo": "guppy",
-                "stars": 3239,
+                "stars": 3238,
                 "topics": [
                   "gui",
                   "react",
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 88,
+                    "open_issues": 89,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29182,
+                    "stars": 29186,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:30:31.051Z",
+    "last_updated": "2026-11-02T02:42:23.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
