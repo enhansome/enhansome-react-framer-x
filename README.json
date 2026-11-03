@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47085,
+                "stars": 47082,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -124,7 +124,7 @@
                 "open_issues": 196,
                 "owner": "microsoft",
                 "repo": "TypeScript-React-Starter",
-                "stars": 11015,
+                "stars": 11014,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -154,11 +154,11 @@
                 "id": 65794292,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T20:44:35Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-03T03:26:29Z",
+                "open_issues": 24,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41058,
+                "stars": 41055,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -214,7 +214,7 @@
                 "open_issues": 83,
                 "owner": "ritz078",
                 "repo": "transform",
-                "stars": 9257,
+                "stars": 9256,
                 "topics": [
                   "css",
                   "flow",
@@ -330,7 +330,7 @@
                     "open_issues": 89,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29186,
+                    "stars": 29188,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:42:23.095Z",
+    "last_updated": "2026-11-03T03:59:38.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
