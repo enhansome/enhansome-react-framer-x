@@ -154,8 +154,8 @@
                 "id": 65794292,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:19:19Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-08T02:10:22Z",
+                "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
                 "stars": 41047,
@@ -330,7 +330,7 @@
                     "open_issues": 91,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29195,
+                    "stars": 29201,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:07:41.581Z",
+    "last_updated": "2026-11-08T02:39:39.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
