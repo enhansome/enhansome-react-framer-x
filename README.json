@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "React-For-Beginners-Starter-Files",
-                "stars": 2897,
+                "stars": 2898,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47086,
+                "stars": 47087,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -154,11 +154,11 @@
                 "id": 65794292,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T02:10:22Z",
+                "last_commit": "2026-11-08T05:22:51Z",
                 "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41047,
+                "stars": 41048,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 91,
+                    "open_issues": 90,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29201,
+                    "stars": 29207,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:39:39.754Z",
+    "last_updated": "2026-11-09T02:55:38.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
