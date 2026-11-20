@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "learncodeacademy",
                 "repo": "react-js-tutorials",
-                "stars": 1661,
+                "stars": 1660,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -98,7 +98,7 @@
                 "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47093,
+                "stars": 47092,
                 "topics": [
                   "cheatsheet",
                   "guide",
@@ -124,7 +124,7 @@
                 "open_issues": 194,
                 "owner": "microsoft",
                 "repo": "TypeScript-React-Starter",
-                "stars": 11013,
+                "stars": 11012,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -158,7 +158,7 @@
                 "open_issues": 30,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41048,
+                "stars": 41066,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -186,7 +186,7 @@
                 "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 156,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -246,7 +246,7 @@
                 "open_issues": 92,
                 "owner": "meetalva",
                 "repo": "alva",
-                "stars": 3689,
+                "stars": 3688,
                 "topics": [
                   "components",
                   "design",
@@ -297,7 +297,7 @@
                 "open_issues": 1,
                 "owner": "zachj0hnston",
                 "repo": "reactfordesignersdotcom",
-                "stars": 117,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -327,10 +327,10 @@
                     "language": "JavaScript",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-21T09:36:55Z",
-                    "open_issues": 94,
+                    "open_issues": 91,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29248,
+                    "stars": 29250,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -378,7 +378,7 @@
                 "open_issues": 8,
                 "owner": "shiftsave",
                 "repo": "framerx-build-system",
-                "stars": 156,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.324Z"
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:27:21.149Z",
+    "last_updated": "2026-11-20T04:13:24.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
@@ -426,7 +426,7 @@
       "open_issues": 2,
       "owner": "davo",
       "repo": "awesome-react-framer-x",
-      "stars": 914,
+      "stars": 913,
       "topics": [
         "awesome-list",
         "design",
