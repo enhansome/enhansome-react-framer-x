@@ -158,7 +158,7 @@
                 "open_issues": 30,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41066,
+                "stars": 41061,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -211,7 +211,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-28T20:46:03Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "ritz078",
                 "repo": "transform",
                 "stars": 9260,
@@ -330,7 +330,7 @@
                     "open_issues": 92,
                     "owner": "viatsko",
                     "repo": "awesome-vscode",
-                    "stars": 29255,
+                    "stars": 29256,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:13:33.816Z",
+    "last_updated": "2026-11-22T03:25:11.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome links to learn React, ES6 & Framer X",
